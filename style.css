@@ -1,0 +1,36 @@
+.background-container {
+    background-color: green;
+    height: 500px;
+    background-size: cover;
+}
+
+.card-container {
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-volleyball-silhouette_23-2149397214.jpg?w=740&t=st=1688712534~exp=1688713134~hmac=4593d495865fb2c17c67a3e76addc7295b84b2084155febd065baaecc5e7e095");
+    background-size: cover;
+    height: 70vh;
+    margin: 30px;
+    padding: 40px;
+
+}
+
+.heading {
+    color: blue;
+    font-family: 'Roboto';
+    text-decoration-color: orange;
+    text-decoration-line: underline;
+    text-align: left;
+    font-size: 40px;
+    padding: 8px;
+
+}
+
+.paragraph {
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+}
+
+.background-card {
+    color: yellow;
+}
